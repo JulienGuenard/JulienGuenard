@@ -30,9 +30,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 </p>
 
    <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />
   
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
