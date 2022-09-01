@@ -17,7 +17,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <a href="https://archer01.itch.io/">
     <img src="assets/itchio.png" width="32" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
+  <a href="https://hashnode.com/@Archer01">
     <img src="assets/hashnode.png" width="32" />
   </a>
   <a href="https://www.linkedin.com/in/julienguenard/">
