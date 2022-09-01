@@ -28,7 +28,12 @@ Maybe you can mention me or this repo in the acknowledgements too
     <img src="assets/twitter.png" width="64" margin-left="20px" />
   </a>
 </p>
-   
+
+   <div align="center"> 
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
   <span> · </span>
