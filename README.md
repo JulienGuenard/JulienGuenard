@@ -14,25 +14,25 @@ Maybe you can mention me or this repo in the acknowledgements too
 <p>
   <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
     <img src="assets/youtube.png" width="64" margin-left="20px" />
-  </a>&nbsp&nbsp
+  </a>&nbsp
   <a href="https://archer01.itch.io/">
     <img src="assets/itchio.png" width="64" margin-left="20px" />
-  </a>&nbsp&nbsp
+  </a>&nbsp
   <a href="https://hashnode.com/@Archer01">
     <img src="assets/hashnode.png" width="64" margin-left="20px" />
-  </a>&nbsp&nbsp
+  </a>&nbsp
   <a href="https://www.linkedin.com/in/julienguenard/">
     <img src="assets/linkedin.png" width="64" margin-left="20px" />
-  </a>&nbsp&nbsp
+  </a>&nbsp
   <a href="https://twitter.com/julien_guenard">
     <img src="assets/twitter.png" width="64" margin-left="20px" />
   </a>
 </p>
 
    <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />
   
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
