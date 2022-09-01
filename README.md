@@ -19,19 +19,19 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- Badges -->
 <p>
   <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="assets/youtube.png" width="128" />
+    <img src="assets/youtube.png" width="32" />
   </a>
   <a href="">
-    <img src="assets/itchio.png" width="128" />
+    <img src="assets/itchio.png" width="32" />
   </a>
   <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="assets/hashnode.png" width="128" />
+    <img src="assets/hashnode.png" width="32" />
   </a>
   <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="assets/linkedin.png" width="128" />
+    <img src="assets/linkedin.png" width="32" />
   </a>
   <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="assets/twitter.png" width="128" />
+    <img src="assets/twitter.png" width="32" />
   </a>
 </p>
    
