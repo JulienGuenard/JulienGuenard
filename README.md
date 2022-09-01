@@ -7,30 +7,21 @@ Don't forget to give this project a star for additional support ;)
 Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
-
-  <img src="assets/logo.png" alt="logo" width="1024" height="auto" />
-  <h1>Awesome Readme Template</h1>
-  
-  <p>
-    An awesome README template for your projects! 
-  </p>
-  
-  
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+  <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
     <img src="assets/youtube.png" width="32" />
   </a>
-  <a href="">
+  <a href="https://archer01.itch.io/">
     <img src="assets/itchio.png" width="32" />
   </a>
   <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
     <img src="assets/hashnode.png" width="32" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
+  <a href="https://www.linkedin.com/in/julienguenard/">
     <img src="assets/linkedin.png" width="32" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
+  <a href="https://twitter.com/julien_guenard">
     <img src="assets/twitter.png" width="32" />
   </a>
 </p>
