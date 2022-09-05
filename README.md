@@ -35,16 +35,16 @@ Maybe you can mention me or this repo in the acknowledgements too
   <p>
     <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
       <p>Youtube</p>                                                                
-    </a></br>
+    </a>
     <a href="https://archer01.itch.io/">
       <p>Itch.io</p>
-    </a></br>
+    </a>
     <a href="https://hashnode.com/@Archer01">
       <p>Hashnode (Dev Blog)</p>
-    </a></br>
+    </a>
     <a href="https://www.linkedin.com/in/julienguenard/">
       <p>Linkedin/p>
-    </a></br>
+    </a>
     <a href="https://twitter.com/julien_guenard">
       <p>Twitter</p>
     </a>
