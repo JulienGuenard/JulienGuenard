@@ -14,14 +14,16 @@
 <!-- Badges -->
 <br />
 
-<div>
+<div align="center" size="30">
 # :notebook_with_decorative_cover: Links
+  </div>
 
-  * [Youtube](#camera-screenshots)
-  * [Itch.io](#space_invader-tech-stack)
-  * [Hashnode (Dev Blog)](#dart-features)
-  * [Linkedin](#art-color-reference)
-  * [Twitter](#key-environment-variables)
+<div>
+  * <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">[Youtube](#camera-screenshots)</a>
+  * <a href="https://archer01.itch.io/">[Itch.io](#space_invader-tech-stack)</a>
+  * <a href="https://hashnode.com/@Archer01">[Hashnode (Dev Blog)](#dart-features)</a>
+  * <a href="https://www.linkedin.com/in/julienguenard/">[Linkedin](#art-color-reference)</a>
+  * <a href="https://twitter.com/julien_guenard">[Twitter](#key-environment-variables)</a>
   * 
   </div>
   
