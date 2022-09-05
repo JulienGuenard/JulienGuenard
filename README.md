@@ -31,14 +31,15 @@
   
    ## Projets personnel
   * <a href="https://github.com/JulienGuenard/Mille-Sabords">Mille Sabords</a>
-  sdfsdfdfgfdghfhj
+  <p>sdfsdfdfgfdghfhj</p>
 
    ## Projets étudiant
   * <a href="https://github.com/JulienGuenard/Orbeon">Orbeon</a>
-  sdfsdfdfgfdghfhj
+  <p>sdfsdfdfgfdghfhj</p>
   * <a href="https://github.com/JulienGuenard/Pyromancer">Pyromancer</a>
-  sdfsdfdfgfdghfhj
+  <p>sdfsdfdfgfdghfhj</p>
   * <a href="https://github.com/JulienGuenard/Candy-Land">Candy Land</a>
+  <p>sdfsdfdfgfdghfhj</p>
 
    ## Exercices
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
