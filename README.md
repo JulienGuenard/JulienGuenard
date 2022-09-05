@@ -19,8 +19,12 @@
 <!-- Badges -->
 <br />
 <div>
-  <p align="center"># Links</p>
-
+  <p align="center">
+    # Links
+    ## Links
+    ### Links
+  </p>
+# Links
   * <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">[Youtube](#camera-screenshots)</a>
   * <a href="https://archer01.itch.io/">[Itch.io](#space_invader-tech-stack)</a>
   * <a href="https://hashnode.com/@Archer01">[Hashnode (Dev Blog)](#dart-features)</a>
