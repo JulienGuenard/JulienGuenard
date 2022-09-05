@@ -11,21 +11,39 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
   </br>
-<p align-content="center">
+<p>
   <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
-    <img src="assets/youtube.png" width="32" padding-top="100px" />aaaaaa
+    <img src="assets/youtube.png" width="64" margin-left="20px/>
   </a></br>
   <a href="https://archer01.itch.io/">
-    <img src="assets/itchio.png" width="32" margin-left="20px" />bbbbbb
+    <img src="assets/itchio.png" width="64" margin-left="20px" />
   </a></br>
   <a href="https://hashnode.com/@Archer01">
-    <img src="assets/hashnode.png" width="32" margin-left="20px" />ccccccc
+    <img src="assets/hashnode.png" width="64" margin-left="20px" />
   </a></br>
   <a href="https://www.linkedin.com/in/julienguenard/">
-    <img src="assets/linkedin.png" width="32" margin-left="20px" />dddddd
+    <img src="assets/linkedin.png" width="64" margin-left="20px" />
   </a></br>
   <a href="https://twitter.com/julien_guenard">
-    <img src="assets/twitter.png" width="32" margin-left="20px" />eeeeeee
+    <img src="assets/twitter.png" width="64" margin-left="20px" />
+  </a>
+</p>
+                                                               
+<p>
+  <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
+    <p>Youtube</p>                                                                
+  </a></br>
+  <a href="https://archer01.itch.io/">
+    <p>Itch.io</p>
+  </a></br>
+  <a href="https://hashnode.com/@Archer01">
+    <p>Hashnode (Dev Blog)</p>
+  </a></br>
+  <a href="https://www.linkedin.com/in/julienguenard/">
+    <p>Linkedin/p>
+  </a></br>
+  <a href="https://twitter.com/julien_guenard">
+    <p>Twitter</p>
   </a>
 </p>
 
