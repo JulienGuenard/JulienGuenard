@@ -13,7 +13,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </br>
 <p>
   <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
-    <img src="assets/youtube.png" width="32" margin-left="20px" /><p text-align: center>aaaaaa</p>
+    <img src="assets/youtube.png" width="32" margin-left="20px" />aaaaaa
   </a></br>
   <a href="https://archer01.itch.io/">
     <img src="assets/itchio.png" width="32" margin-left="20px" />bbbbbb
