@@ -11,7 +11,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
   </br>
-<p>
+<p align-content="center">
   <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
     <img src="assets/youtube.png" width="32" padding-top="100px" />aaaaaa
   </a></br>
