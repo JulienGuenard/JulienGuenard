@@ -1,13 +1,11 @@
-<!--
-Hey, thanks for using the awesome-readme-template template.  
-If you have any enhancements, then fork this project and create a pull request 
-or just open an issue with the label "enhancement".
-
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
--->
 <div align="center">
   <img src="assets/logo.png" alt="logo" width="1024" height="auto" />
+</div>
+
+<div align="center"> 
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />
 </div>
 <!-- Badges -->
 <div align="center">
@@ -53,10 +51,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 <div align="center">
    <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />
-  
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
   <span> · </span>
