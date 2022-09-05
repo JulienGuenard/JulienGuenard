@@ -27,28 +27,22 @@
   
   ---
   
-  # Unity
-  ## Projets personnel
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+  # Projets Unity
+  
+   ## Projets personnel
+  * <a href="https://github.com/JulienGuenard/Mille-Sabords">Mille Sabords</a>
 
     ## Projets étudiant
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+  * <a href="https://github.com/JulienGuenard/Orbeon">Orbeon</a>
+  * <a href="https://github.com/JulienGuenard/Pyromancer">Pyromancer</a>
+  * <a href="https://github.com/JulienGuenard/Candy-Land">Candy Land</a>
 
     ## Exercices
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+  * <a href="https://github.com/JulienGuenard/2D-Platform---Cours-3WA">2D Platform Dwarf</a>
+  * <a href="https://github.com/JulienGuenard/UI-Exercice">UI Exercice</a>
+  * <a href="https://github.com/JulienGuenard/Piratorium">Auditorium</a>
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
-
-
 
 <div align="center">
   </br>
