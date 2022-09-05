@@ -3,10 +3,11 @@
 </div>
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
-    <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
+    <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
+      <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />
 </div>
 <!-- Badges -->
 <div align="center">
