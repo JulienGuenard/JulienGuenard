@@ -5,13 +5,13 @@
 ---
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
-    <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
-      <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
-        <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
-        <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />
+  <img src="assets/screenshot1.png" alt="screenshot" width="128" />&nbsp
+  <img src="assets/screenshot2.png" alt="screenshot" width="128" />&nbsp
+  <img src="assets/screenshot3.png" alt="screenshot" width="128" />&nbsp
+  <img src="assets/screenshot4.png" alt="screenshot" width="128" />&nbsp
+  <img src="assets/screenshot5.png" alt="screenshot" width="128" />&nbsp
+  <img src="assets/screenshot6.png" alt="screenshot" width="128" />&nbsp
+  <img src="assets/screenshot7.png" alt="screenshot" width="128" />
 </div>
 
 ---
