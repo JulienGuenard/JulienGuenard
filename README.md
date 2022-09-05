@@ -8,45 +8,50 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
   <img src="assets/logo.png" alt="logo" width="1024" height="auto" />
-  
+</div>
 <!-- Badges -->
+<div align="center">
   </br>
-<p>
-  <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
-    <img src="assets/youtube.png" width="64" margin-left="20px" />
-  </a></br>
-  <a href="https://archer01.itch.io/">
-    <img src="assets/itchio.png" width="64" margin-left="20px" />
-  </a></br>
-  <a href="https://hashnode.com/@Archer01">
-    <img src="assets/hashnode.png" width="64" margin-left="20px" />
-  </a></br>
-  <a href="https://www.linkedin.com/in/julienguenard/">
-    <img src="assets/linkedin.png" width="64" margin-left="20px" />
-  </a></br>
-  <a href="https://twitter.com/julien_guenard">
-    <img src="assets/twitter.png" width="64" margin-left="20px" />
-  </a>
-</p>
-                                                               
-<p>
-  <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
-    <p>Youtube</p>                                                                
-  </a></br>
-  <a href="https://archer01.itch.io/">
-    <p>Itch.io</p>
-  </a></br>
-  <a href="https://hashnode.com/@Archer01">
-    <p>Hashnode (Dev Blog)</p>
-  </a></br>
-  <a href="https://www.linkedin.com/in/julienguenard/">
-    <p>Linkedin/p>
-  </a></br>
-  <a href="https://twitter.com/julien_guenard">
-    <p>Twitter</p>
-  </a>
-</p>
+  <p>
+    <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
+      <img src="assets/youtube.png" width="64" margin-left="20px" />
+    </a>
+    <a href="https://archer01.itch.io/">
+      <img src="assets/itchio.png" width="64" margin-left="20px" />
+    </a>
+    <a href="https://hashnode.com/@Archer01">
+      <img src="assets/hashnode.png" width="64" margin-left="20px" />
+    </a>
+    <a href="https://www.linkedin.com/in/julienguenard/">
+      <img src="assets/linkedin.png" width="64" margin-left="20px" />
+    </a>
+    <a href="https://twitter.com/julien_guenard">
+      <img src="assets/twitter.png" width="64" margin-left="20px" />
+    </a>
+  </p>
+</div>
 
+<div>
+  <p>
+    <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
+      <p>Youtube</p>                                                                
+    </a></br>
+    <a href="https://archer01.itch.io/">
+      <p>Itch.io</p>
+    </a></br>
+    <a href="https://hashnode.com/@Archer01">
+      <p>Hashnode (Dev Blog)</p>
+    </a></br>
+    <a href="https://www.linkedin.com/in/julienguenard/">
+      <p>Linkedin/p>
+    </a></br>
+    <a href="https://twitter.com/julien_guenard">
+      <p>Twitter</p>
+    </a>
+  </p>
+</div>
+
+<div align="center">
    <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="256" />&nbsp
