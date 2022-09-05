@@ -13,19 +13,19 @@ Maybe you can mention me or this repo in the acknowledgements too
   </br>
 <p>
   <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">
-    <img src="assets/youtube.png" width="64" margin-left="20px" />
+    <img src="assets/youtube.png" width="32" margin-left="20px" />aaaaaa
   </a>&nbsp
   <a href="https://archer01.itch.io/">
-    <img src="assets/itchio.png" width="64" margin-left="20px" />
+    <img src="assets/itchio.png" width="32" margin-left="20px" />bbbbbb
   </a>&nbsp
   <a href="https://hashnode.com/@Archer01">
-    <img src="assets/hashnode.png" width="64" margin-left="20px" />
+    <img src="assets/hashnode.png" width="32" margin-left="20px" />ccccccc
   </a>&nbsp
   <a href="https://www.linkedin.com/in/julienguenard/">
-    <img src="assets/linkedin.png" width="64" margin-left="20px" />
+    <img src="assets/linkedin.png" width="32" margin-left="20px" />dddddd
   </a>&nbsp
   <a href="https://twitter.com/julien_guenard">
-    <img src="assets/twitter.png" width="64" margin-left="20px" />
+    <img src="assets/twitter.png" width="32" margin-left="20px" />eeeeeee
   </a>
 </p>
 
