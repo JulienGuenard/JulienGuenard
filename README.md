@@ -10,7 +10,6 @@
   <img src="assets/screenshot3.png" alt="screenshot" width="128" />&nbsp
   <img src="assets/screenshot4.png" alt="screenshot" width="128" />&nbsp
   <img src="assets/screenshot5.png" alt="screenshot" width="128" />&nbsp
-  <img src="assets/screenshot6.png" alt="screenshot" width="128" />&nbsp
   <img src="assets/screenshot7.png" alt="screenshot" width="128" />
 </div>
 
