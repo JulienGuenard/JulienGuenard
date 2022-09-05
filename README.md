@@ -14,8 +14,7 @@
 <!-- Badges -->
 <br />
 <div>
-# :notebook_with_decorative_cover: Links
-
+  <p text-size="40px">Links</p>
 
   * <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">[Youtube](#camera-screenshots)</a>
   * <a href="https://archer01.itch.io/">[Itch.io](#space_invader-tech-stack)</a>
