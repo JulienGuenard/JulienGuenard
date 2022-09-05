@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="logo" width="1024" height="auto" />
 </div>
 
---
+---
 
 <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />&nbsp
@@ -14,13 +14,13 @@
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" width="128" />
 </div>
 
---
+---
 
 <!-- Badges -->
 
 # Links
 
-# :notebook_with_decorative_cover: Table of Contents
+
 
 - [About the Project](#star2-about-the-project)
   * [Screenshots](#camera-screenshots)
