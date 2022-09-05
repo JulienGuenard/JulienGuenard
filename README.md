@@ -19,7 +19,7 @@
 <!-- Badges -->
 <br />
 <div>
- # <p align="center">Links</p>
+  <p align="center"># Links</p>
 
   * <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">[Youtube](#camera-screenshots)</a>
   * <a href="https://archer01.itch.io/">[Itch.io](#space_invader-tech-stack)</a>
