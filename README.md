@@ -18,7 +18,7 @@
 
 <!-- Badges -->
 
-# Links
+# Liens
   * <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">Youtube</a>
   * <a href="https://archer01.itch.io/">Itch.io</a>
   * <a href="https://hashnode.com/@Archer01">Hashnode (Dev Blog)</a>
@@ -27,18 +27,29 @@
   
   ---
   
-  ## Projects 
+  # Unity
+  ## Projets personnel
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
 
-    ## Projets Personnel & Etudiant
+    ## Projets étudiant
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+
+    ## Exercices
+  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+
+
+
 <div align="center">
   </br>
   <p>
