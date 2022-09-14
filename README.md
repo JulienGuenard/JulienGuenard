@@ -38,7 +38,7 @@
 
    ## Exercices
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a> 
-  <a href="https://archer01.itch.io/titans-souls">&nbsp;&nbsp;&nbsp;(Play game)</a>
+  <a href="https://archer01.itch.io/titans-souls">&nbsp;&nbsp;&nbsp;&nbsp;(Play game)</a>
   * <a href="https://github.com/JulienGuenard/2D-Platform---Cours-3WA">2D Platform Dwarf</a>
   <a href="https://archer01.itch.io/titans-souls">&nbsp;&nbsp;&nbsp;(Play game)</a>
   * <a href="https://github.com/JulienGuenard/UI-Exercice">UI Exercice</a>
