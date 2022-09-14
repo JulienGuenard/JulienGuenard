@@ -30,6 +30,7 @@
   
    ## Projets personnel
   * <a href="https://github.com/JulienGuenard/Mille-Sabords">Mille Sabords</a>
+    <a href="https://archer01.itch.io/mille-sabords">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Play game)</a>
 
    ## Projets étudiant
   * <a href="https://github.com/JulienGuenard/Orbeon">Orbeon</a>
@@ -37,10 +38,13 @@
   * <a href="https://github.com/JulienGuenard/Candy-Land">Candy Land</a>
 
    ## Exercices
-  * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a> 
-  <a href="https://archer01.itch.io/titans-souls">&nbsp;&nbsp;&nbsp;&nbsp;(Play game)</a>
+  * <a href="https://github.com/JulienGuenard/Flooded-Village">Titans Souls</a> 
+  <a href="https://archer01.itch.io/titans-souls">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Play game)</a>
   * <a href="https://github.com/JulienGuenard/2D-Platform---Cours-3WA">2D Platform Dwarf</a>
-  <a href="https://archer01.itch.io/titans-souls">&nbsp;&nbsp;&nbsp;(Play game)</a>
+  <a href="https://archer01.itch.io/dwarf-platformer-2d">&nbsp;&nbsp;&nbsp;(Play game)</a>
   * <a href="https://github.com/JulienGuenard/UI-Exercice">UI Exercice</a>
+  <a href="https://archer01.itch.io/ui-exercice">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Play game)</a>
   * <a href="https://github.com/JulienGuenard/Piratorium">Auditorium</a>
+    <a href="https://archer01.itch.io/auditorium">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Play game)</a>
   * <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+    <a href="https://archer01.itch.io/flooded-village">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Play game)</a>
