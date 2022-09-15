@@ -39,7 +39,7 @@
   * <a href="https://github.com/JulienGuenard/Candy-Land">Candy Land</a>
 
    ## Exercices
-  * <a href="https://archer01.itch.io/titans-souls">(Play game)</a>&nbsp;
+  * <a href="https://github.com/JulienGuenard/2D-Titan-Souls-Like">(Play game)</a>&nbsp;
   <a href="https://github.com/JulienGuenard/Flooded-Village">Titans Souls</a> 
   * <a href="https://archer01.itch.io/dwarf-platformer-2d">(Play game)</a>&nbsp;
   <a href="https://github.com/JulienGuenard/2D-Platform---Cours-3WA">2D Platform Dwarf</a>
