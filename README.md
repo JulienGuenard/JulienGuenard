@@ -32,11 +32,17 @@
   * <a href="https://archer01.itch.io/mille-sabords">(Play game)</a>&nbsp;
   <a href="https://github.com/JulienGuenard/Mille-Sabords">Mille Sabords</a>
 
-
+https://archer01.itch.io/orbeon
    ## Projets étudiant
-  * <a href="https://github.com/JulienGuenard/Orbeon">Orbeon</a>
-  * <a href="https://github.com/JulienGuenard/Pyromancer">Pyromancer</a>
-  * <a href="https://github.com/JulienGuenard/Candy-Land">Candy Land</a>
+  * <a href="https://archer01.itch.io/orbeon">(Download game)</a>&nbsp;
+  <a href="https://archer01-tactic-turn-based-unity.hashnode.dev/">(Dev Blog)</a>&nbsp;
+  <a href="https://github.com/JulienGuenard/Orbeon">Orbeon</a>
+  * <a href="https://archer01.itch.io/pyromancer">(Download game)</a>&nbsp;
+  <a href="https://jeu-infiltration-unity.hashnode.dev/">(Dev Blog)</a>&nbsp;
+  <a href="https://github.com/JulienGuenard/Pyromancer">Pyromancer</a>
+  * <a href="https://archer01.itch.io/candy-land">(Download game)</a>&nbsp;
+  <a href="https://archer01-jeu-narratif-2d.hashnode.dev/">(Dev Blog)</a>&nbsp;
+  <a href="https://github.com/JulienGuenard/Candy-Land">Candy Land</a>
 
    ## Exercices
   * <a href="https://github.com/JulienGuenard/2D-Titan-Souls-Like">(Play game)</a>&nbsp;
