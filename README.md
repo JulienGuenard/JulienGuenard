@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/logo.png" alt="logo" width="1024" height="auto" />
-</div>
+</div> -->
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-<!-- Badges 
+<!-- Badges -->
 
 # Liens
   * <a href="https://www.youtube.com/channel/UCwxuydeEi6WyM-X6nsPs-8A">Youtube</a>
@@ -24,7 +24,7 @@
   * <a href="https://hashnode.com/@Archer01">Hashnode (Dev Blog)</a>
   * <a href="https://www.linkedin.com/in/julienguenard/">Linkedin</a>
   * <a href="https://twitter.com/julien_guenard">Twitter</a>
-  
+ 
   ---
   
   # Projets Unity
