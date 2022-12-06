@@ -1,7 +1,7 @@
 
-<!--<div align="center">
+<div align="center">
   <img src="assets/logo.png" alt="logo" width="1024" height="auto" />
-</div>-->
+</div>
 
 ---
 
