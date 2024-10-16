@@ -25,6 +25,8 @@
   * <a href="https://twitter.com/julien_guenard">Twitter</a>
  
   ---
+
+Note : Les scripts de mes projets Unity se trouvent dans le dossier Assets/Scripts
   
   # Projets Unity
   
