@@ -29,11 +29,11 @@
   # Projets Unity
   
    ## Projets personnel
-  • 10-2024 <a href="https://github.com/JulienGuenard/Nahash">Nahash</a>
-  • 09-2024 <a href="https://github.com/JulienGuenard/Prelude-Agione">Prélude Agione</a>
-  • 01-2024 <a href="https://github.com/JulienGuenard/GGJ2024---Thumbass-Finghter">Global Game Jam 2024</a>
-  • 12-2023 <a href="https://github.com/JulienGuenard/Pixycity">Pixycity</a>
-  • 05-2023 <a href="https://github.com/JulienGuenard/Bag-Horn">Bag Horn</a>
+  * 10-2024 <a href="https://github.com/JulienGuenard/Nahash">Nahash</a>
+  * 09-2024 <a href="https://github.com/JulienGuenard/Prelude-Agione">Prélude Agione</a>
+  * 01-2024 <a href="https://github.com/JulienGuenard/GGJ2024---Thumbass-Finghter">Global Game Jam 2024</a>
+  * 12-2023 <a href="https://github.com/JulienGuenard/Pixycity">Pixycity</a>
+  * 05-2023 <a href="https://github.com/JulienGuenard/Bag-Horn">Bag Horn</a>
   
    ## Projets étudiant
   * 2019 <a href="https://archer01-tactic-turn-based-unity.hashnode.dev/">(Dev Blog)</a>&nbsp;
