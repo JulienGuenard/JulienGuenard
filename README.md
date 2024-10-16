@@ -29,8 +29,12 @@
   # Projets Unity
   
    ## Projets personnel
-  * 2022 <a href="https://github.com/JulienGuenard/Mille-Sabords">Mille Sabords</a>
-
+  • 10-2024 <a href="https://github.com/JulienGuenard/Nahash">Nahash</a>
+  • 09-2024 <a href="https://github.com/JulienGuenard/Prelude-Agione">Prélude Agione</a>
+  • 01-2024 <a href="https://github.com/JulienGuenard/GGJ2024---Thumbass-Finghter">Global Game Jam 2024</a>
+  • 12-2023 <a href="https://github.com/JulienGuenard/Pixycity">Pixycity</a>
+  • 05-2023 <a href="https://github.com/JulienGuenard/Bag-Horn">Bag Horn</a>
+  
    ## Projets étudiant
   * 2019 <a href="https://archer01-tactic-turn-based-unity.hashnode.dev/">(Dev Blog)</a>&nbsp;
   <a href="https://github.com/JulienGuenard/Orbeon">Orbeon</a>
@@ -39,10 +43,11 @@
   * 2017 <a href="https://archer01-jeu-narratif-2d.hashnode.dev/">(Dev Blog)</a>&nbsp;
   <a href="https://github.com/JulienGuenard/Candy-Land">Candy Land</a>
 
-   ## Exercices
+   ## 3WA Exercices
   * 2022 <a href="https://github.com/JulienGuenard/2D-Titan-Souls-Like">Titans Souls</a> 
   * 2022 <a href="https://github.com/JulienGuenard/2D-Platform---Cours-3WA">2D Platform Dwarf</a>
   * 2022 <a href="https://github.com/JulienGuenard/UI-Exercice">UI Exercice</a>
   * 2022 <a href="https://github.com/JulienGuenard/Piratorium">Auditorium</a>
   * 2022 <a href="https://github.com/JulienGuenard/Flooded-Village">Flooded Village</a>
+  * 2022 <a href="https://github.com/JulienGuenard/Mille-Sabords">Mille Sabords</a>
 
